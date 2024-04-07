@@ -32,8 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-.metadata/
-.mvn/wrapper
+.metadata
+.mvn
 
 node_modules
 package-lock.json
